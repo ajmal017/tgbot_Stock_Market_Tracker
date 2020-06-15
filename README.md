@@ -1,7 +1,7 @@
 # tgbot_Stock_Market_Tracker
 using yfinance to optain data
 
-SAMPLE OUTPUT\
+SAMPLE OUTPUT:\
 2020-06-15 17:11:14.568999\
 \
 ===== Index =====\
